@@ -89,12 +89,30 @@
 .w-670{
     width: 670px;
 }
+.w-504{
+    width: 504px;
+}
+.w-280{
+    width: 280px;
+}
+.h-257{
+    height: 257px;
+}
 
+.mb-5{
+    margin-bottom: 5px;
+}
 .mb-17{
     margin-bottom: 17px;
 }
+.mb-18{
+    margin-bottom: 18px;
+}
 .mb-22{
     margin-bottom: 22px;
+}
+.mb-23{
+    margin-bottom: 23px;
 }
 .mt-18{
     margin-bottom: 18px;
@@ -280,4 +298,15 @@ a{
     width: 340px;
     height: 64px;
     background-color: #EDEFF0;
+}
+.box__content{
+    width: 284px;
+    margin: 17.5px 28px;
+}
+
+.footer-box{
+    background-color: #06061F;
+}
+.footer p{
+    line-height: 19px;
 }
