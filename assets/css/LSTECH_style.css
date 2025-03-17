@@ -95,7 +95,7 @@
 .w-280{
     width: 280px;
 }
-.h-257{
+.h-149{
     height: 257px;
 }
 
@@ -311,6 +311,5 @@ a{
     line-height: 19px;
 }
 .f-box__content{
-    margin-top: 43px;
-    margin-bottom: 65px;
+    padding-top: 43px;
 }
