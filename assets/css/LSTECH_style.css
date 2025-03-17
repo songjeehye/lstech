@@ -95,6 +95,9 @@
 .w-280{
     width: 280px;
 }
+.h-257{
+    height: 257px;
+}
 .h-149{
     height: 257px;
 }
@@ -117,10 +120,12 @@
 .mt-18{
     margin-bottom: 18px;
 }
+
 .m-tb-17{
     margin-top: 17px;
     margin-bottom: 17px;
 }
+
 
 img{
     width: 100%;
@@ -207,6 +212,13 @@ a{
 .nav form{
     width: 135px;
     height: 36px;
+    border: 1px solid #222222;
+    border-radius: 100px;
+}
+.nav select{
+    width: 76px;
+    height: 24px;
+    border: none;
 }
 .nav label{
     font-family: "NotoSansKR";
@@ -273,8 +285,13 @@ a{
 .box__btn{
     width: 198px;
     height: 47px;
-    border: 3px #fff;
+    border: 3px solid #fff;
     border-radius: 100px;
+}
+.btn-content{
+    width: 159px;
+    height: 30px;
+    margin: 8px 18px;
 }
 .box__btn img{
     width: 30px;
@@ -305,11 +322,10 @@ a{
 }
 
 .footer-box{
+    height: 250px;
     background-color: #06061F;
+    padding: 45px 0 60px;
 }
 .footer p{
     line-height: 19px;
-}
-.f-box__content{
-    padding-top: 43px;
 }
